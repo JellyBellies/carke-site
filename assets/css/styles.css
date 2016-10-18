@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.module-background-1 {
+  /* background by Carlos Aguilar */
+  background-image: url("../img/module-background-1.png");
+}
+
+.module {
+  padding: 20px 0;
+  overflow: auto;
+  min-height: 300px;
+  background-color: #DDDDDD;
+}
+
+.about-me-headline {
+  color: white;
+  min-width: 300px;
+  margin: 30px 0 0 30px;
+}
+
+.avatar-container {
+  padding: 5px;
+  border-radius:155px;
+  background-color: white;
+}
+
+.avatar-300 {
+  max-width: 300px;
+  border-radius: 150px;
+  vertical-align: middle;
+}
+
+.pull-left {
+  float: left;
+}
