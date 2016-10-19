@@ -26,12 +26,19 @@ body {
   color: white;
   min-width: 300px;
   margin: 30px 0 0 30px;
+  text-align: center;
+}
+
+.about-me-headline h1 {
+  font-size: 40px;
 }
 
 .avatar-container {
   padding: 5px;
+  width: 300px;
   border-radius:155px;
   background-color: white;
+  margin: 0 auto;
 }
 
 .avatar-300 {
